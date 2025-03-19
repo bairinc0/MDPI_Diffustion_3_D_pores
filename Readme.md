@@ -1,0 +1,7 @@
+### About
+Numerical modeling was conducted to study the capture of particles diffusing in porous media with traps. The pores are cylindrical in shape, and the traps are randomly distributed along the cylindrical surfaces of the pores. The dynamics of particle capture by the traps, as well as the filling of the traps, were investigated. In general, the decrease in the number of particles follows an exponential trend, with a characteristic time determined by the trap concentration. However, at longer times, extended plateaus emerge in the particle distribution function. Additionally, the dynamics of the interface boundary corresponding to the median trap filling (M = 0.5) were examined. This interface separates regions where traps are filled with a probability greater than 0.5 from regions where traps are filled with a probability less than 0.5. The motion of the interface over time was found to follow a logarithmic dependence. The influence of the radius of the pore on the capture on traps, which are placed on the internal surface of the cylinders, was investigated. The different dependencies of the extinction time on the number of traps were found at different radii of pores the first time.
+
+### Files
+Repository contains simulation data
+_data/means.zip - 
+_data/result.zip - 
