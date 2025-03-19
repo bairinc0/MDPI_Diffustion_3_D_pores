@@ -3,5 +3,5 @@ Numerical modeling was conducted to study the capture of particles diffusing in 
 
 ### Files
 Repository contains simulation data
-_data/means.zip - 
-_data/result.zip - 
+_data/means/means.zip - The archive is divided into parts
+_data/result/result.zip - The archive is divided into parts
